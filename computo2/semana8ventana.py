@@ -1,5 +1,5 @@
 import sys
-from PyQt5.Qtwidgets import (QApplication, QMainWindow, QWidget, QPushbutton, QLineEdit, QHBoxLayout)
+from PyQt5.Qtwidgets import (QApplication, QMainWindow, QWidget, QPushbutton, QLineEdit, QHBoxLayout) 
 
 
 class ventanam(QMainWindow):
